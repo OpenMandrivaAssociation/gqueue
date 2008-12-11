@@ -12,7 +12,7 @@ URL:		http://web.tiscali.it/no-redirect-tiscali/diegobazzanella/
 License:	GPL
 Group:		Graphical desktop/GNOME
 BuildRoot:	%{_tmppath}/%{name}-buildroot
-BuildRequires:	cups-devel pkgconfig libgnomeui2-devel gettext ImageMagick
+BuildRequires:	cups-devel pkgconfig libgnomeui2-devel gettext imagemagick
 
 %description
 gQueue is a Gnome2 frontend for lpq and lprm working with Cups queues.
