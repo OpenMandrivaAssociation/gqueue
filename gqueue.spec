@@ -1,6 +1,6 @@
 %define name 	gqueue
 %define version 0.99.1
-%define release  %mkrel 5
+%define release  %mkrel 6
 
 Name: 		%{name}
 Summary: 	GNOME2 frontend for CUPS
