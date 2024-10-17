@@ -8,7 +8,7 @@ Version: 	%{version}
 Release: 	%{release}
 
 Source0:		%{name}-%{version}.tar.bz2
-URL:		http://web.tiscali.it/no-redirect-tiscali/diegobazzanella/
+URL:		https://web.tiscali.it/no-redirect-tiscali/diegobazzanella/
 License:	GPL
 Group:		Graphical desktop/GNOME
 BuildRequires:	cups-devel pkgconfig pkgconfig(libgnomeui-2.0) gettext imagemagick
