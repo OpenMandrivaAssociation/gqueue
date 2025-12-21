@@ -11,6 +11,11 @@ Source0:		%{name}-%{version}.tar.bz2
 URL:		https://web.tiscali.it/no-redirect-tiscali/diegobazzanella/
 License:	GPL
 Group:		Graphical desktop/GNOME
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	cups-devel pkgconfig pkgconfig(libgnomeui-2.0) gettext imagemagick
 
 %description
